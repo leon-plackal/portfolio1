@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/portfolio1/static/css/main.7e9beb95.css",
-    "main.js": "/portfolio1/static/js/main.0415c499.js",
+    "main.css": "/portfolio1/static/css/main.1e268c05.css",
+    "main.js": "/portfolio1/static/js/main.e8d37f55.js",
     "static/js/787.ee4d86e2.chunk.js": "/portfolio1/static/js/787.ee4d86e2.chunk.js",
     "static/media/ArtiGenThumb.png": "/portfolio1/static/media/ArtiGenThumb.7f01f08e25067380516b.png",
+    "static/media/thumb_dodgefall.png": "/portfolio1/static/media/thumb_dodgefall.28f826b4d7a01f3e01bc.png",
     "static/media/portfoliov1.png": "/portfolio1/static/media/portfoliov1.1711ce220ff7d25732c0.png",
     "static/media/denoiser_thumb.png": "/portfolio1/static/media/denoiser_thumb.bb17af6ce86be406d6f3.png",
     "static/media/home2.jpg": "/portfolio1/static/media/home2.a952597f066c6ffe77f5.jpg",
     "static/media/KeyNinja.png": "/portfolio1/static/media/KeyNinja.13168dffd250426749ce.png",
+    "static/media/thumb_react-reddit-video.png": "/portfolio1/static/media/thumb_react-reddit-video.a912698c5a7f9f2d5f23.png",
     "index.html": "/portfolio1/index.html",
-    "main.7e9beb95.css.map": "/portfolio1/static/css/main.7e9beb95.css.map",
-    "main.0415c499.js.map": "/portfolio1/static/js/main.0415c499.js.map",
+    "main.1e268c05.css.map": "/portfolio1/static/css/main.1e268c05.css.map",
+    "main.e8d37f55.js.map": "/portfolio1/static/js/main.e8d37f55.js.map",
     "787.ee4d86e2.chunk.js.map": "/portfolio1/static/js/787.ee4d86e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e9beb95.css",
-    "static/js/main.0415c499.js"
+    "static/css/main.1e268c05.css",
+    "static/js/main.e8d37f55.js"
   ]
 }
